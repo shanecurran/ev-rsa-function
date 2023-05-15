@@ -1,0 +1,4 @@
+[function]
+name = "rsa_crypto_test"
+language = "node@16"
+handler = "index.handler"
